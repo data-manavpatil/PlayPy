@@ -15,7 +15,7 @@ This repository serves as a collection of Python projects reflecting my passion 
 ## Technologies Used
 
 - Python
-
+- Django 
 ## How to Explore
 
 1. Clone this repository to your local machine using `git clone`.
